@@ -51,7 +51,7 @@
     "validator": "^10.4.0"
   },
   "devDependencies": {
-    "@loopback/build": "^1.4.3",
+    "@loopback/build": "^9.0.6",
     "@loopback/openapi-spec-builder": "^1.1.5",
     "@loopback/repository": "^1.4.1",
     "@loopback/testlab": "^1.2.4",
